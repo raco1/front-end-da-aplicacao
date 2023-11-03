@@ -4,11 +4,16 @@
 
 Criar uma aplicação front-end em React do desafio anterior (Você pode encontrar o repositório do último desafio aqui: https://github.com/raco1/aplicando_node)
 
+
 ##  📸 Screenshots
 
-![signin](https://github.com/raco1/front-end-da-aplicacao/assets/113068055/375f3870-a9fa-4e10-90c1-bf2669890afe)
-![home](https://github.com/raco1/front-end-da-aplicacao/assets/113068055/03323093-e26b-4724-b835-48ce25714255)
-![profile](https://github.com/raco1/front-end-da-aplicacao/assets/113068055/7b739cca-1896-437d-9a8a-afdcbf9b423d)
+<div align="center">
+    <img src="https://github.com/raco1/front-end-da-aplicacao/assets/113068055/375f3870-a9fa-4e10-90c1-bf2669890afe" width="740px" />
+    <img src="https://github.com/raco1/front-end-da-aplicacao/assets/113068055/03323093-e26b-4724-b835-48ce25714255" width="740px" />
+    <img src="https://github.com/raco1/front-end-da-aplicacao/assets/113068055/7b739cca-1896-437d-9a8a-afdcbf9b423d" width="740px" />
+</div>
+
+
 
 ## ✍️ Aprendizados
 
@@ -45,3 +50,4 @@ Aprendi a utilizar o Vite para iniciar o Reactjs, além do styled-components, o 
 
 ## 🎨 Figma do projeto
 https://www.figma.com/file/jB6JFGTceZlyX7JqtfAHBV/RocketMovies-(Copy)?node-id=0%3A1&mode=dev
+
