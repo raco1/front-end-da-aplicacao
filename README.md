@@ -4,6 +4,13 @@
 
 Criar uma aplicação front-end em React do desafio anterior (Você pode encontrar o repositório do último desafio aqui: https://github.com/raco1/aplicando_node)
 
+##  📸 Screenshots
+
+![signin](https://github.com/raco1/front-end-da-aplicacao/assets/113068055/375f3870-a9fa-4e10-90c1-bf2669890afe)
+![signup](https://github.com/raco1/front-end-da-aplicacao/assets/113068055/ba079e8f-2809-4f9e-a6e2-45c2e76d8f8e)
+![home](https://github.com/raco1/front-end-da-aplicacao/assets/113068055/03323093-e26b-4724-b835-48ce25714255)
+![profile](https://github.com/raco1/front-end-da-aplicacao/assets/113068055/7b739cca-1896-437d-9a8a-afdcbf9b423d)
+
 ## ✍️ Aprendizados
 
 Nesse pude aprender mais à respeito do React.js e o porquê ele é tão utilizado atualmente para estilização dos projetos. 
