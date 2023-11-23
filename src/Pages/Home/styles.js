@@ -25,3 +25,4 @@ export const Container = styled.div`
         background-color: ${({ theme }) => theme.COLORS.PINK};
     }
 `;
+export const Content = styled.div``
