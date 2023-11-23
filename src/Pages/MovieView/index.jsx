@@ -30,24 +30,12 @@ export function MovieView(){
     }
 
     async function deleteMovieNote(){
-        swal({
-            title: "Are you sure?",
-            text: "Once deleted, you will not be able to recover this movie note!",
-            icon: "warning",
-            buttons: true,
-            dangerMode: true,
-          })
-          .then((willDelete) => {
-            if (willDelete) {
-                api.delete(`/notes/${params.id}`)
-                handleBack()
-                swal("Poof! Your movie note has been deleted!", {
-                icon: "success",
-              });
-            } else {
-                swal("Your movie note is safe!");
-            }
-          });
+        const confirm = window.confirm("Are you sure you want delete this move note?")
+
+        if(confirm){
+            api.delete(`/notes/${params.id}`)
+            handleBack()
+        }
     }
     
 
