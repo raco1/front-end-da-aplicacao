@@ -8,6 +8,6 @@ export const Container = styled.span`
     font-size: 1.2rem;
     font-weight: 400;
     color: ${({ theme }) => theme.COLORS.TAG_TEXT_COLOR};
-    background: ${({ theme }) => theme.COLORS.BACKGROUND_TAGS};
+    background: ${({ theme }) => theme.COLORS.BACKGROUND_MOVIE_NOTE};
     border-radius: 0.8rem;
 `;
