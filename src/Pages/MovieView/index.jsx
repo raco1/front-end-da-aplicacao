@@ -1,16 +1,16 @@
 /* eslint-disable react-hooks/exhaustive-deps */
-import { useState, useEffect } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
+import { useState, useEffect } from 'react';
 import { useAuth } from "../../hooks/auth";
 import { api } from '../../services/api';
 
 import { Rate } from 'antd';
-import { ClockCircleOutlined } from '@ant-design/icons';
+import { Tag } from '../../Components/tag'
 import { Container, Content } from './styles';
 import { BiLeftArrowAlt } from "react-icons/bi";
 import { Header } from '../../Components/Header';
 import { Button } from '../../Components/Button';
-import { Tag } from '../../Components/tag'
+import { ClockCircleOutlined } from '@ant-design/icons';
 import { ButtonText } from '../../Components/ButtonText';
 import avatarPlaceholder from "../../assets/avatar_placeholder.svg"
 
@@ -38,7 +38,6 @@ export function MovieView(){
         }
     }
     
-
     useEffect(() => {
         async function fetchMovie(){
             const response = await api.get(`/notes/${params.id}`)
