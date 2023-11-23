@@ -35,6 +35,7 @@ export const Container = styled.button`
             font-family: Roboto;
             font-size: 1.6rem;
             font-weight: 400;
+            text-align: left;
 
             overflow: hidden;
             text-overflow: ellipsis;
