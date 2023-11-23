@@ -1,13 +1,14 @@
-import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
+import { useEffect, useState } from "react";
 import { api } from "../../services/api";
-import { Container, Content } from "./styles";
-import { Header } from "../../Components/Header";
-import { Button } from "../../Components/Button";
-import { Section } from "../../Components/Section";
+
 import { BiPlus } from "react-icons/bi";
-import { MovieNote } from "../../Components/MovieNote";
+import { Container, Content } from "./styles";
 import { Input } from "../../Components/Input";
+import { Button } from "../../Components/Button";
+import { Header } from "../../Components/Header";
+import { Section } from "../../Components/Section";
+import { MovieNote } from "../../Components/MovieNote";
 
 export function Home(){
     const [notes, setNotes] = useState([])
