@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import { useState, useEffect } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
 import { useAuth } from "../../hooks/auth";
@@ -45,6 +46,7 @@ export function MovieView(){
         }
         fetchMovie()
     }, [])
+    
     return(
         <Container>
             <Header />
