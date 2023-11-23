@@ -1,24 +1,28 @@
+import { useNavigate } from "react-router-dom";
 import { Container, Form } from "./styles";
 import { Header } from "../../Components/Header";
-import { Link } from "react-router-dom";
 import { Textarea } from "../../Components/Textarea";
 import { ButtonText } from "../../Components/ButtonText";
 import { Button } from "../../Components/Button";
 import { TagItem } from "../../Components/TagItem";
 import { Input } from "../../Components/Input";
-import { AiOutlineArrowLeft } from "react-icons/ai";
+import { BiLeftArrowAlt } from "react-icons/bi";
 
 export function NewMovieNote(){
+    const navigate = useNavigate()
+    
+    function handleBack(){
+        navigate(-1)
+    }
+    
     return(
         <Container>
             <Header />
           
             <main>
                 
-                <ButtonText icon={AiOutlineArrowLeft}>
-                    <Link to="/">
-                        back
-                    </Link>
+                <ButtonText icon={BiLeftArrowAlt} onClick={handleBack}>
+                    back
                 </ButtonText>
                 <h1>New Movie</h1>
 
