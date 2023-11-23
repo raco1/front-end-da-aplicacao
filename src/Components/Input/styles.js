@@ -1,9 +1,7 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-
-    width: 100%;
-    height: 5.6rem;
+    width:100%;
     background: ${({ theme }) => theme.COLORS.BACKGROUND_INPUTS};
     color: ${({ theme }) => theme.COLORS.INPUTS_TEXT_COLOR};
 
