@@ -24,21 +24,8 @@ export const Container = styled.div`
         font-size: 2.4rem;
         font-weight: 700;
     }
-
-    > input {
-        width: 100%;
-        padding: 1.9rem 2.4rem;
-
-        background-color: ${({ theme }) => theme.COLORS.BACKGROUND_INPUTS};
-        color: ${({ theme }) => theme.COLORS.INPUTS_TEXT_COLOR};
-
-        border: none;
-        border-radius: 1rem;
-
-        font-size: 1.4rem;
-        font-weight: 400;
-    }
-`;
+       
+`
 
 export const Profile = styled.div`
 
@@ -70,4 +57,11 @@ export const Profile = styled.div`
         border-radius: 50%;
         border: 1px solid ${({ theme }) => theme.COLORS.BACKGROUND_IMG};
     }
-`;
+`
+
+export const Search = styled.div`
+    width: 100%;
+
+    font-size: 1.4rem;
+    font-weight: 400;
+`
