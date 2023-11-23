@@ -4,7 +4,6 @@ import { useAuth } from "../../hooks/auth";
 import { api } from '../../services/api';
 
 import { Rate } from 'antd';
-import swal from 'sweetalert';
 import { ClockCircleOutlined } from '@ant-design/icons';
 import { Container, Content } from './styles';
 import { BiLeftArrowAlt } from "react-icons/bi";
