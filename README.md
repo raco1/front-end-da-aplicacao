@@ -22,7 +22,7 @@ Criar uma aplicação front-end em React do desafio anterior (Você pode encontr
 - Mostrar perfil;
 - Atualizar perfil;
 - Cadastrar filmes;
-- Mostrar filmes cadastradas;
+- Mostrar filmes cadastrados;
 - Filtrar filmes;
 - Mostrar detalhes do filme;
 - Excluir filme;
