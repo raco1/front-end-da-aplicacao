@@ -1,8 +1,8 @@
 # 🚀 Front-end da Aplicação (Desafio do Stage 09 - Frontend, da Trila Explorer da Rocketseat)
 
-💻 Sobre o desafio
+💻 Sobre o projeto
 
-Criar uma aplicação front-end em React do desafio anterior (Você pode encontrar o repositório do último desafio aqui: https://github.com/raco1/aplicando_node)
+Criar uma aplicação front-end em React do desafio anterior (Você pode encontrar o repositório do último desafio aqui: https://github.com/raco1/aplicando_node). O projeto ainda está em fase de desenvolvimento, portanto, algumas funcionalidade podem ser adicionadas e/ou alteradas.
 
 
 ##  📸 Screenshots
@@ -15,20 +15,31 @@ Criar uma aplicação front-end em React do desafio anterior (Você pode encontr
 
 
 
-## ✍️ Aprendizados
+## ✍️ Funcionalidades
+    - Login;
+    - Cadastro;
+    - Mostrar perfil;
+    - Atualizar perfil;
+    - Cadastrar filmes;
+    - Mostrar filmes cadastradas;
+    - Filtrar filmes;
+    - Mostrar detalhes do filme;
+    - Excluir filme;
+    - Logout.
 
-Nesse pude aprender mais à respeito do React.js e o porquê ele é tão utilizado atualmente para estilização dos projetos. 
-Aprendi a utilizar o Vite para iniciar o Reactjs, além do styled-components, o antd e o react-router-dom para auxiliar durante o projeto.
+## 🖥 Tecnologias
+    - JavaScript;
+    - Vite;
+    - React.js;
+    - Axios;
+    - AntD;
+    - React Icons;
+    - React Router;
 
-
-
-## 🖥 Tecnologies
-
-- JavaScript;
-- Vite;
-- React.js
 ## 🛠 Dependecies
+    - @ant-design/icons: ^5.2.6,
     - antd: ^5.10.3,
+    - axios: ^1.6.2,
     - react: ^18.2.0,
     - react-dom: ^18.2.0,
     - react-icons: ^4.11.0,
@@ -44,6 +55,7 @@ Aprendi a utilizar o Vite para iniciar o Reactjs, além do styled-components, o 
     - eslint-plugin-react-hooks: ^4.6.0,
     - eslint-plugin-react-refres": ^0.4.3,
     - vite: ^4.4.5
+    
 ## 👋 Contato
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-coelho-reis-873181204/)
 
