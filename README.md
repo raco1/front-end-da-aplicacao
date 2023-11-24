@@ -1,8 +1,8 @@
 # 🚀 Front-end da Aplicação (Desafio do Stage 09 - Frontend, da Trila Explorer da Rocketseat)
 
-💻 Sobre o desafio
+💻 Sobre o projeto
 
-Criar uma aplicação front-end em React do desafio anterior (Você pode encontrar o repositório do último desafio aqui: https://github.com/raco1/aplicando_node)
+Criar uma aplicação front-end em React do desafio anterior (Você pode encontrar o repositório do back-end da aplicação aqui: https://github.com/raco1/rocket-movies-api). O projeto ainda está em fase de desenvolvimento, portanto, algumas funcionalidade podem ser adicionadas e/ou alteradas.
 
 
 ##  📸 Screenshots
@@ -15,20 +15,35 @@ Criar uma aplicação front-end em React do desafio anterior (Você pode encontr
 
 
 
-## ✍️ Aprendizados
+## ✍️ Funcionalidades
 
-Nesse pude aprender mais à respeito do React.js e o porquê ele é tão utilizado atualmente para estilização dos projetos. 
-Aprendi a utilizar o Vite para iniciar o Reactjs, além do styled-components, o antd e o react-router-dom para auxiliar durante o projeto.
+- Login;
+- Cadastro;
+- Mostrar perfil;
+- Atualizar perfil;
+- Cadastrar filmes;
+- Mostrar filmes cadastrados;
+- Filtrar filmes;
+- Mostrar detalhes do filme;
+- Excluir filme;
+- Logout.
 
 
 
-## 🖥 Tecnologies
+## 🖥 Tecnologias
 
 - JavaScript;
 - Vite;
-- React.js
+- React.js;
+- Axios;
+- AntD;
+- React Icons;
+- React Router.
+
 ## 🛠 Dependecies
+    - @ant-design/icons: ^5.2.6,
     - antd: ^5.10.3,
+    - axios: ^1.6.2,
     - react: ^18.2.0,
     - react-dom: ^18.2.0,
     - react-icons: ^4.11.0,
@@ -44,10 +59,13 @@ Aprendi a utilizar o Vite para iniciar o Reactjs, além do styled-components, o 
     - eslint-plugin-react-hooks: ^4.6.0,
     - eslint-plugin-react-refres": ^0.4.3,
     - vite: ^4.4.5
+
+    
 ## 👋 Contato
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-coelho-reis-873181204/)
 
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=rafaelcoelho2711@gmail.com)
 
-## 🎨 Figma do projeto
-https://www.figma.com/file/jB6JFGTceZlyX7JqtfAHBV/RocketMovies-(Copy)?node-id=0%3A1&mode=dev
+[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/racolol/)
