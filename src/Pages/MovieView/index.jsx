@@ -1,7 +1,7 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import { useNavigate, useParams } from 'react-router-dom';
 import { useState, useEffect } from 'react';
-import { useAuth } from "../../hooks/auth";
+import { useAuth } from "../../Hooks/auth";
 import { api } from '../../services/api';
 
 import { Rate } from 'antd';
