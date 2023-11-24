@@ -59,11 +59,13 @@ Criar uma aplicação front-end em React do desafio anterior (Você pode encontr
     - eslint-plugin-react-hooks: ^4.6.0,
     - eslint-plugin-react-refres": ^0.4.3,
     - vite: ^4.4.5
+
     
 ## 👋 Contato
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-coelho-reis-873181204/)
 
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=rafaelcoelho2711@gmail.com)
 
-## 🎨 Figma do projeto
-https://www.figma.com/file/jB6JFGTceZlyX7JqtfAHBV/RocketMovies-(Copy)?node-id=0%3A1&mode=dev
+[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/racolol/)
