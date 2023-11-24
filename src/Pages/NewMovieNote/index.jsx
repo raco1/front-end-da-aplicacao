@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import { api } from "../../services/api";
+import { api } from "../../Services/api";
 import { useState } from "react";
 
 import { Container, Form } from "./styles";

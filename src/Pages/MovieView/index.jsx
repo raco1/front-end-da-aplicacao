@@ -2,7 +2,7 @@
 import { useNavigate, useParams } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 import { useAuth } from "../../Hooks/auth";
-import { api } from '../../services/api';
+import { api } from '../../Services/api';
 
 import { Rate } from 'antd';
 import { Tag } from '../../Components/tag'

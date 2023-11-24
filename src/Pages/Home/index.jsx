@@ -1,6 +1,6 @@
 import { useNavigate } from "react-router-dom";
 import { useEffect, useState } from "react";
-import { api } from "../../services/api";
+import { api } from "../../Services/api";
 
 import { BiPlus } from "react-icons/bi";
 import { Container, Content } from "./styles";

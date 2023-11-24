@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import { api } from "../../services/api";
+import { api } from "../../Services/api";
 import { Container, Form, Background } from "./styles";
 import { Input } from '../../Components/Input'
 import { Link } from "react-router-dom";

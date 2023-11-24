@@ -2,7 +2,7 @@ import { Container, Profile, Search } from "./styles";
 import { Link } from "react-router-dom";
 import { useAuth } from "../../Hooks/auth";
 import { useNavigate } from "react-router-dom";
-import { api } from "../../services/api";
+import { api } from "../../Services/api";
 import avatarPlaceholder from "../../assets/avatar_placeholder.svg"
 
 export function Header({ children }){

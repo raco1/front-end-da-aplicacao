@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useAuth } from "../../Hooks/auth";
 import { Container, Form, Avatar } from "./styles";
 import { useNavigate } from "react-router-dom";
-import { api } from "../../services/api";
+import { api } from "../../Services/api";
 import { ButtonText } from "../../Components/ButtonText";
 import { BiLeftArrowAlt } from "react-icons/bi";
 import { Input } from "../../Components/Input"
