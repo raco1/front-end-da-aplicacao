@@ -2,7 +2,7 @@
 
 💻 Sobre o projeto
 
-Criar uma aplicação front-end em React do desafio anterior (Você pode encontrar o repositório do último desafio aqui: https://github.com/raco1/rocket-movies-api). O projeto ainda está em fase de desenvolvimento, portanto, algumas funcionalidade podem ser adicionadas e/ou alteradas.
+Criar uma aplicação front-end em React do desafio anterior (Você pode encontrar o repositório do back-end da aplicação aqui: https://github.com/raco1/rocket-movies-api). O projeto ainda está em fase de desenvolvimento, portanto, algumas funcionalidade podem ser adicionadas e/ou alteradas.
 
 
 ##  📸 Screenshots
