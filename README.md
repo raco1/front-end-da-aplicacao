@@ -16,25 +16,25 @@ Criar uma aplicação front-end em React do desafio anterior (Você pode encontr
 
 
 ## ✍️ Funcionalidades
-    - Login;
-    - Cadastro;
-    - Mostrar perfil;
-    - Atualizar perfil;
-    - Cadastrar filmes;
-    - Mostrar filmes cadastradas;
-    - Filtrar filmes;
-    - Mostrar detalhes do filme;
-    - Excluir filme;
-    - Logout.
+- Login;
+- Cadastro;
+- Mostrar perfil;
+- Atualizar perfil;
+- Cadastrar filmes;
+- Mostrar filmes cadastradas;
+- Filtrar filmes;
+- Mostrar detalhes do filme;
+- Excluir filme;
+- Logout.
 
 ## 🖥 Tecnologias
-    - JavaScript;
-    - Vite;
-    - React.js;
-    - Axios;
-    - AntD;
-    - React Icons;
-    - React Router;
+- JavaScript;
+- Vite;
+- React.js;
+- Axios;
+- AntD;
+- React Icons;
+- React Router.
 
 ## 🛠 Dependecies
     - @ant-design/icons: ^5.2.6,
