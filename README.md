@@ -8,7 +8,7 @@
 -  <a href="#-funcionalidades">Funcionalidades</a>
 -  <a href="#-tecnologias">Tecnologias</a>
 -  <a href="#-dependecies">Dependecies</a>
--  <a href="#-devdependecies">DevDependecies</a>
+-  <a href="#-devdependencies">DevDependecies</a>
 -  <a href="#-licença">Licença</a>
 -  <a href="#-contato">Contato</a>
 
