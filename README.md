@@ -2,7 +2,7 @@
 
 # 💻 Sobre o projeto
 
-Criar uma aplicação front-end em React do desafio anterior (Você pode encontrar o repositório do back-end da aplicação aqui: https://github.com/raco1/rocket-movies-api). O projeto ainda está em fase de desenvolvimento, portanto, algumas funcionalidade podem ser adicionadas e/ou alteradas.
+Criar uma aplicação front-end em React do desafio anterior (Você pode encontrar o repositório do back-end da aplicação aqui: https://github.com/raco1/rocket-movies-api). O projeto pode ser acessado pela url: [rocketmovies27.netlify.app.](https://rocketmovies27.netlify.app)
 
 
 ##  📸 Screenshots
@@ -60,7 +60,7 @@ Criar uma aplicação front-end em React do desafio anterior (Você pode encontr
     - eslint-plugin-react-refres": ^0.4.3,
     - vite: ^4.4.5
 
-## Licença
+## 📝 Licença
 [![NPM](https://img.shields.io/github/license/raco1/rocket-movies-front)](https://github.com/raco1/rocket-movies-front/blob/main/LICENSE)
     
 ## 👋 Contato
