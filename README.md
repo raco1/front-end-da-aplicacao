@@ -49,9 +49,6 @@ Criar uma aplicação front-end em React do desafio anterior (Você pode encontr
 - Vite;
 - React.js;
 - Axios;
-- AntD;
-- React Icons;
-- React Router.
 
 ## 🛠 Dependecies
     - @ant-design/icons: ^5.2.6,
