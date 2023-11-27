@@ -1,6 +1,19 @@
 # 🚀 Front-end da Aplicação (Desafio do Stage 09 - Frontend, da Trila Explorer da Rocketseat)
 
-# 💻 Sobre o projeto
+
+## 🔍 Índice
+
+-  <a href="#sobre-o-projeto">Sobre o projeto</a>
+-  <a href="#Screenshots">Screenshots</a>
+-  <a href="#Funcionalidades">Funcionalidades</a>
+-  <a href="#Tecnologias">Tecnologias</a>
+-  <a href="#Dependecies">Dependecies</a>
+-  <a href="#DevDependecies">DevDependecies</a>
+-  <a href="#Licença">Licença</a>
+-  <a href="#Contato">Contato</a>
+
+
+## 💻 Sobre o projeto
 
 Criar uma aplicação front-end em React do desafio anterior (Você pode encontrar o repositório do back-end da aplicação aqui: https://github.com/raco1/rocket-movies-api). O projeto pode ser acessado pela url: [rocketmovies27.netlify.app.](https://rocketmovies27.netlify.app)
 
