@@ -5,7 +5,7 @@
 
 -  <a href="#-sobre-o-projeto">Sobre o projeto</a>
 -  <a href="#-screenshots">Screenshots</a>
--  <a href="#-funcionalidades">Funcionalidades</a>
+-  <a href="#%EF%B8%8F-funcionalidades">Funcionalidades</a>
 -  <a href="#-tecnologias">Tecnologias</a>
 -  <a href="#-dependecies">Dependecies</a>
 -  <a href="#-devdependencies">DevDependecies</a>
