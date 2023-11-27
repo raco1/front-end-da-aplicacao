@@ -84,4 +84,4 @@ Criar uma aplicação front-end em React do desafio anterior (Você pode encontr
 <a href="https://www.instagram.com/racolol/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ### 
-<a href="#-indice">Voltar ao Índice </a>
+<a href="#-índice">Voltar ao Índice </a>
