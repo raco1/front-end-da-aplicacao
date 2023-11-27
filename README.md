@@ -3,14 +3,14 @@
 
 ## 🔍 Índice
 
--  <a href="#sobre-o-projeto">Sobre o projeto</a>
--  <a href="#screenshots">Screenshots</a>
--  <a href="#funcionalidades">Funcionalidades</a>
--  <a href="#tecnologias">Tecnologias</a>
--  <a href="#dependecies">Dependecies</a>
--  <a href="#dev-dependecies">DevDependecies</a>
--  <a href="#licença">Licença</a>
--  <a href="#contato">Contato</a>
+-  <a href="#-sobre-o-projeto">Sobre o projeto</a>
+-  <a href="#-screenshots">Screenshots</a>
+-  <a href="#-funcionalidades">Funcionalidades</a>
+-  <a href="#-tecnologias">Tecnologias</a>
+-  <a href="#-dependecies">Dependecies</a>
+-  <a href="#-devdependecies">DevDependecies</a>
+-  <a href="#-licença">Licença</a>
+-  <a href="#-contato">Contato</a>
 
 
 ## 💻 Sobre o projeto
