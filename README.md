@@ -1,6 +1,6 @@
 # 🚀 Front-end da Aplicação (Desafio do Stage 09 - Frontend, da Trila Explorer da Rocketseat)
 
-💻 Sobre o projeto
+# 💻 Sobre o projeto
 
 Criar uma aplicação front-end em React do desafio anterior (Você pode encontrar o repositório do back-end da aplicação aqui: https://github.com/raco1/rocket-movies-api). O projeto ainda está em fase de desenvolvimento, portanto, algumas funcionalidade podem ser adicionadas e/ou alteradas.
 
@@ -60,6 +60,8 @@ Criar uma aplicação front-end em React do desafio anterior (Você pode encontr
     - eslint-plugin-react-refres": ^0.4.3,
     - vite: ^4.4.5
 
+## Licença
+[![NPM](https://img.shields.io/github/license/raco1/rocket-movies-front)](https://github.com/raco1/rocket-movies-front/blob/main/LICENSE)
     
 ## 👋 Contato
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-coelho-reis-873181204/)
