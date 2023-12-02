@@ -1,8 +1,21 @@
 # 🚀 Front-end da Aplicação (Desafio do Stage 09 - Frontend, da Trila Explorer da Rocketseat)
 
-💻 Sobre o projeto
 
-Criar uma aplicação front-end em React do desafio anterior (Você pode encontrar o repositório do back-end da aplicação aqui: https://github.com/raco1/rocket-movies-api). O projeto ainda está em fase de desenvolvimento, portanto, algumas funcionalidade podem ser adicionadas e/ou alteradas.
+## 🔍 Índice
+
+-  <a href="#-sobre-o-projeto">Sobre o projeto</a>
+-  <a href="#-screenshots">Screenshots</a>
+-  <a href="#%EF%B8%8F-funcionalidades">Funcionalidades</a>
+-  <a href="#-tecnologias">Tecnologias</a>
+-  <a href="#-dependecies">Dependecies</a>
+-  <a href="#-devdependencies">DevDependecies</a>
+-  <a href="#-licença">Licença</a>
+-  <a href="#-contato">Contato</a>
+
+
+## 💻 Sobre o projeto
+
+Criar uma aplicação front-end em React do desafio anterior (Você pode encontrar o repositório do back-end da aplicação aqui: https://github.com/raco1/rocket-movies-api). O projeto pode ser acessado pela url: [rocketmovies27.netlify.app.](https://rocketmovies27.netlify.app)
 
 
 ##  📸 Screenshots
@@ -36,9 +49,6 @@ Criar uma aplicação front-end em React do desafio anterior (Você pode encontr
 - Vite;
 - React.js;
 - Axios;
-- AntD;
-- React Icons;
-- React Router.
 
 ## 🛠 Dependecies
     - @ant-design/icons: ^5.2.6,
@@ -60,12 +70,15 @@ Criar uma aplicação front-end em React do desafio anterior (Você pode encontr
     - eslint-plugin-react-refres": ^0.4.3,
     - vite: ^4.4.5
 
+## 📝 Licença
+[![NPM](https://img.shields.io/github/license/raco1/rocket-movies-front)](https://github.com/raco1/rocket-movies-front/blob/main/LICENSE)
     
 ## 👋 Contato
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-coelho-reis-873181204/)
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=rafaelcoelho2711@gmail.com)
+<a href="https://www.linkedin.com/in/rafael-coelho-reis-873181204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:rafaelcoelho2711@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="http://discordapp.com/users/raco1" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+<a href="https://www.instagram.com/racolol/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
-
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/racolol/)
+### 
+<a href="#-índice">Voltar ao Índice </a>
